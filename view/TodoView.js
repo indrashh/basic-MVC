@@ -1,4 +1,4 @@
-// TodoView: adalah class yang berisi method yang akan menamilkan todo di mamam
+// TodoView: adalah class yang berisi method yang akan menamilkan todo di terminal
 class TodoView {
   static show(params) {
     params.forEach((param) => {
